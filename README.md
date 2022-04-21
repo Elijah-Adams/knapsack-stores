@@ -3,4 +3,6 @@ Uses a knapsack algorithm to determine the most profitable stores that are a min
 
 My goal was to learn how graphics, components, and algorithms interact. As a result, my OOP and code structure is sloppy.
 
-![My Image](knapsack-algorithm-image.png)
+
+
+![My Image](knapsack-algorithm-example.png)
